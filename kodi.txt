@@ -121,10 +121,6 @@ plugin://script.module.horus?action=play&id=5bd78125bd1e98c3f49e98910ed15e39d0b9
 plugin://script.module.horus?action=play&id=b7e43c2c3887864193578eb57079955c50070f69
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  11c8
 plugin://script.module.horus?action=play&id=11c89343be863cf2a69b3973747c629d9e79d7b8
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,DAZN F1 UHD ep  c021
-plugin://script.module.horus?action=play&id=c021e3af42b9cd3743817a2c6258e0986666dd73
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,M+ LaLiga UHD ep  8286
-plugin://script.module.horus?action=play&id=8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV  e72d
 plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ESPN US  4b49
