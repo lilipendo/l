@@ -121,6 +121,38 @@ acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631
 acestream://b7e43c2c3887864193578eb57079955c50070f69
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  11c8
 acestream://11c89343be863cf2a69b3973747c629d9e79d7b8
+#EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV  e72d
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ESPN US  4b49
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ESPN 2 US  664e
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports1.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,FOX Sports 1 US  c9c0
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,FOX Sports 2 US  cba8
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpMainEv.uk" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" ,Sky Sports Main Event UK  eab7
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="I402.1890.tvguide.co.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Premier League UK  ec5e
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpFball.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Football UK  8dbe
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportF1Germany.de" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 DE  b043
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport2.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 2 UK  d63d
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport3.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 3 UK  5f96
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport4.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 4 UK  fc50
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Voetbal NL  9576
+acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing NL  7780
+acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" ,tdp 1080  e239
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c
